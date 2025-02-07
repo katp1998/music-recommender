@@ -17,6 +17,7 @@ Steps:
     3. Artist Recommender
     4. Album Recommender
     5. Song Recommender
+    6. Analysing emotional aspect of a track
 
 
 3. References:
