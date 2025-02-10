@@ -12,7 +12,7 @@ This is a prototype spotify-based music recommendation system: Artist recommende
     - Alternating Least Squares: type of MF
 
 Steps:
-    1. Setting up poetry
+    1. Setting up poetry -- done
     2. Understanding Python folder structure + code structure best practices
     3. Artist Recommender
     4. Album Recommender
